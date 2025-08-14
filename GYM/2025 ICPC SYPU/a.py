@@ -1,3 +1,5 @@
+'''Completely Divisible Subarrays'''
+
 import sys
 
 def solve():
